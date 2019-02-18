@@ -1,0 +1,7 @@
+var array = [1,2,3,5,8,13,21,34]
+
+function reducedArray (array) {
+ [1, 2, 3].reduce( (a,b) => a * b ); 
+}
+
+console.log(value)
